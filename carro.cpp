@@ -1,4 +1,4 @@
-// Atividade estruturada da Disciplina de Algoritmos (CCT0001)
+// Atividade estruturada da Disciplina de Algoritmos
 // Autor: Danielly Oliveira
 
 // Cálculo do preço de um automóvel 0 km que varia de acordo com os opcionais
